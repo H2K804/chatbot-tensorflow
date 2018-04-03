@@ -23,3 +23,4 @@ then run the code like so
 
 Reference: 
 [suriyadeepan](https://github.com/suriyadeepan/practical_seq2seq)
+[llSourcell](https://github.com/llSourcell/tensorflow_chatbot)
